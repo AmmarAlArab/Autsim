@@ -1,0 +1,18 @@
+{
+  "final_result": "Traits Detected",
+  "overall_risk": "High",  // ده للعداد الكبير
+  "details": {
+    "social": {
+      "level": "Moderate", // ده يحدد لون البطاقة الأولى
+      "score": 50.0
+    },
+    "communication": {
+      "level": "Low",      // ده يحدد لون البطاقة الثانية
+      "score": 25.0
+    },
+    "repetitive": {
+      "level": "High",     // ده يحدد لون البطاقة الثالثة
+      "score": 100.0
+    }
+  }
+}
